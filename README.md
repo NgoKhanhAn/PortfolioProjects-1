@@ -35,5 +35,5 @@ ______________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________
 
 <img width="1046" height="663" alt="image" src="https://github.com/user-attachments/assets/1a1acc38-4aa8-4b24-ac21-87b916ac45c4" />
-Join CovidDeath and CovidVaccination data base on location and date 
+### Join CovidDeath and CovidVaccination data base on location and date 
 <img width="745" height="339" alt="image" src="https://github.com/user-attachments/assets/e40b94e9-b237-40e3-ac34-cac04354cc19" />
